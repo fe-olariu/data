@@ -1,0 +1,991 @@
+Input file: dim.DSJC125.1, 125 vertices, 736 edges (7014 non-adjacencies)
+
+******* Best separator size: 36
+******* Initially separator size: 36
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 9408
+
+******* Solving time per problem: 0.38s
+******* Root solving time: 1.88s
+******* Total solving time: 3,600.09s
+
+******* Average # of variables: 3.78
+******* Root # of variables: 1471
+******* Total # of variables: 35600
+
+Input file: dim.games120, 120 vertices, 638 edges (6502 non-adjacencies)
+
+******* Best separator size: 26
+******* Initially separator size: 26
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 78
+
+******* Solving time per problem: 0.27s
+******* Root solving time: 2.6s
+******* Total solving time: 21.18s
+
+******* Average # of variables: 20.46
+******* Root # of variables: 1636
+******* Total # of variables: 1596
+
+Input file: dim.myciel7, 191 vertices, 2360 edges (15785 non-adjacencies)
+
+******* Best separator size: 95
+******* Initially separator size: 95
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 13
+
+******* Solving time per problem: 277.03s
+******* Root solving time: 11.88s
+******* Total solving time: 3,601.41s
+
+******* Average # of variables: 2,538.15
+******* Root # of variables: 4345
+******* Total # of variables: 32996
+
+Input file: dim.myciel6, 95 vertices, 755 edges (3710 non-adjacencies)
+
+******* Best separator size: 31
+******* Initially separator size: 47
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 918
+
+******* Solving time per problem: 3.92s
+******* Root solving time: 1.06s
+******* Total solving time: 3,600.06s
+
+******* Average # of variables: 28.73
+******* Root # of variables: 1614
+******* Total # of variables: 26378
+
+Input file: dim.queen12_12, 144 vertices, 2596 edges (7700 non-adjacencies)
+
+******* Best separator size: 47
+******* Initially separator size: 51
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 329
+
+******* Solving time per problem: 10.94s
+******* Root solving time: 6.99s
+******* Total solving time: 3,600.11s
+
+******* Average # of variables: 117.33
+******* Root # of variables: 2039
+******* Total # of variables: 38603
+
+Input file: dim.queen11_11, 121 vertices, 1980 edges (5280 non-adjacencies)
+
+******* Best separator size: 40
+******* Initially separator size: 46
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 4242
+
+******* Solving time per problem: 0.85s
+******* Root solving time: 5.15s
+******* Total solving time: 3,600.01s
+
+******* Average # of variables: 3.79
+******* Root # of variables: 1673
+******* Total # of variables: 16085
+
+Input file: dim.queen10_10, 100 vertices, 1470 edges (3480 non-adjacencies)
+
+******* Best separator size: 33
+******* Initially separator size: 41
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 11022
+
+******* Solving time per problem: 0.33s
+******* Root solving time: 2.36s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.78
+******* Root # of variables: 1569
+******* Total # of variables: 8630
+
+Input file: dim.queen8_12, 96 vertices, 1368 edges (3192 non-adjacencies)
+
+******* Best separator size: 31
+******* Initially separator size: 37
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 2350
+
+******* Solving time per problem: 1.53s
+******* Root solving time: 1.98s
+******* Total solving time: 3,600.04s
+
+******* Average # of variables: 3.29
+******* Root # of variables: 1369
+******* Total # of variables: 7729
+
+Input file: dim.queen9_9, 81 vertices, 1056 edges (2184 non-adjacencies)
+
+******* Best separator size: 26
+******* Initially separator size: 36
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 477
+
+******* Solving time per problem: 0.26s
+******* Root solving time: 1.08s
+******* Total solving time: 125.8s
+
+******* Average # of variables: 2.15
+******* Root # of variables: 1151
+******* Total # of variables: 1024
+
+Input file: dim.queen8_8, 64 vertices, 728 edges (1288 non-adjacencies)
+
+******* Best separator size: 21
+******* Initially separator size: 21
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 63
+
+******* Solving time per problem: 0.06s
+******* Root solving time: 0.69s
+******* Total solving time: 4.03s
+
+******* Average # of variables: 13.16
+******* Root # of variables: 840
+******* Total # of variables: 829
+
+Input file: dim.miles1000, 128 vertices, 3216 edges (4912 non-adjacencies)
+
+******* Best separator size: 18
+******* Initially separator size: 18
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 54
+
+******* Solving time per problem: 1.23s
+******* Root solving time: 10.3s
+******* Total solving time: 66.41s
+
+******* Average # of variables: 17.2
+******* Root # of variables: 650
+******* Total # of variables: 929
+
+Input file: dim.queen7_7, 49 vertices, 476 edges (700 non-adjacencies)
+
+******* Best separator size: 18
+******* Initially separator size: 18
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 201606
+
+******* Solving time per problem: 0.02s
+******* Root solving time: 0.32s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.01
+******* Root # of variables: 598
+******* Total # of variables: 1312
+
+Input file: dim.DSJC125.5, 125 vertices, 3891 edges (3859 non-adjacencies)
+
+******* Best separator size: 60
+******* Initially separator size: 63
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 19896
+
+******* Solving time per problem: 0.18s
+******* Root solving time: 8.2s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.58
+******* Root # of variables: 2345
+******* Total # of variables: 11470
+
+Input file: dim.DSJC125.9, 125 vertices, 6961 edges (789 non-adjacencies)
+
+******* Best separator size: 103
+******* Initially separator size: 103
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 4591
+
+******* Solving time per problem: 0.78s
+******* Root solving time: 23.83s
+******* Total solving time: 3,600.28s
+
+******* Average # of variables: 1.81
+******* Root # of variables: 3093
+******* Total # of variables: 8288
+
+Input file: mat.can96, 96 vertices, 912 edges (3648 non-adjacencies)
+
+******* Best separator size: 26
+******* Initially separator size: 26
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 19026
+
+******* Solving time per problem: 0.19s
+******* Root solving time: 1.37s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.31
+******* Root # of variables: 1074
+******* Total # of variables: 5822
+
+Input file: mat.can73, 73 vertices, 652 edges (1976 non-adjacencies)
+
+******* Best separator size: 22
+******* Initially separator size: 24
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 78385
+
+******* Solving time per problem: 0.05s
+******* Root solving time: 0.67s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.1
+******* Root # of variables: 948
+******* Total # of variables: 7754
+
+Input file: mat.rw136, 136 vertices, 641 edges (8539 non-adjacencies)
+
+******* Best separator size: 17
+******* Initially separator size: 22
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 732
+
+******* Solving time per problem: 4.92s
+******* Root solving time: 2.72s
+******* Total solving time: 3,600.1s
+
+******* Average # of variables: 94.23
+******* Root # of variables: 1542
+******* Total # of variables: 68979
+
+Input file: mat.gre__115, 115 vertices, 576 edges (5979 non-adjacencies)
+
+******* Best separator size: 21
+******* Initially separator size: 21
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 63
+
+******* Solving time per problem: 0.18s
+******* Root solving time: 1.38s
+******* Total solving time: 11.04s
+
+******* Average # of variables: 18.86
+******* Root # of variables: 1114
+******* Total # of variables: 1188
+
+Input file: mat.L125.gre__185, 125 vertices, 1177 edges (6573 non-adjacencies)
+
+******* Best separator size: 32
+******* Initially separator size: 32
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 96
+
+******* Solving time per problem: 0.28s
+******* Root solving time: 2.63s
+******* Total solving time: 27.29s
+
+******* Average # of variables: 13.71
+******* Root # of variables: 1408
+******* Total # of variables: 1316
+
+Input file: mat.can__144, 144 vertices, 1656 edges (8640 non-adjacencies)
+
+******* Best separator size: 18
+******* Initially separator size: 23
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 50
+
+******* Solving time per problem: 72.01s
+******* Root solving time: 5.87s
+******* Total solving time: 3,600.57s
+
+******* Average # of variables: 776.6
+******* Root # of variables: 1752
+******* Total # of variables: 38830
+
+Input file: mat.L125.can__161, 125 vertices, 1257 edges (6493 non-adjacencies)
+
+******* Best separator size: 32
+******* Initially separator size: 32
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 24879
+
+******* Solving time per problem: 0.14s
+******* Root solving time: 2.83s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.52
+******* Root # of variables: 1521
+******* Total # of variables: 12947
+
+Input file: mat.lund_a, 147 vertices, 2837 edges (7894 non-adjacencies)
+
+******* Best separator size: 31
+******* Initially separator size: 31
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 93
+
+******* Solving time per problem: 0.8s
+******* Root solving time: 7.4s
+******* Total solving time: 74.18s
+
+******* Average # of variables: 18.23
+******* Root # of variables: 1720
+******* Total # of variables: 1695
+
+Input file: mat.L125.bcsstk05, 125 vertices, 2701 edges (5049 non-adjacencies)
+
+******* Best separator size: 24
+******* Initially separator size: 35
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 201
+
+******* Solving time per problem: 17.91s
+******* Root solving time: 6.06s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 107.75
+******* Root # of variables: 1571
+******* Total # of variables: 21657
+
+Input file: mat.L125.dwt__193, 125 vertices, 2982 edges (4768 non-adjacencies)
+
+******* Best separator size: 39
+******* Initially separator size: 39
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 117
+
+******* Solving time per problem: 0.66s
+******* Root solving time: 5.63s
+******* Total solving time: 76.67s
+
+******* Average # of variables: 15.47
+******* Root # of variables: 1784
+******* Total # of variables: 1810
+
+Input file: mat.L125.fs_183_1, 125 vertices, 3392 edges (4358 non-adjacencies)
+
+******* Best separator size: 27
+******* Initially separator size: 72
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 1020
+
+******* Solving time per problem: 3.53s
+******* Root solving time: 6.69s
+******* Total solving time: 3,600.04s
+
+******* Average # of variables: 32.96
+******* Root # of variables: 2391
+******* Total # of variables: 33615
+
+Input file: mat.bcsstk04, 132 vertices, 5918 edges (2728 non-adjacencies)
+
+******* Best separator size: 53
+******* Initially separator size: 54
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 445
+
+******* Solving time per problem: 8.09s
+******* Root solving time: 15.43s
+******* Total solving time: 3,600.07s
+
+******* Average # of variables: 151.12
+******* Root # of variables: 2098
+******* Total # of variables: 67249
+
+Input file: mat.arc130, 130 vertices, 7763 edges (622 non-adjacencies)
+
+******* Best separator size: 42
+******* Initially separator size: 124
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 296
+
+******* Solving time per problem: 12.16s
+******* Root solving time: 43.99s
+******* Total solving time: 3,600.06s
+
+******* Average # of variables: 48.83
+******* Root # of variables: 3935
+******* Total # of variables: 14454
+
+Input file: mat.L100.steam2, 100 vertices, 1766 edges (3184 non-adjacencies)
+
+******* Best separator size: 24
+******* Initially separator size: 27
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 583
+
+******* Solving time per problem: 4.84s
+******* Root solving time: 2.41s
+******* Total solving time: 2,818.91s
+
+******* Average # of variables: 1.8
+******* Root # of variables: 1145
+******* Total # of variables: 1047
+
+Input file: mat.L120.fidap025, 120 vertices, 2787 edges (4353 non-adjacencies)
+
+******* Best separator size: 18
+******* Initially separator size: 64
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 322
+
+******* Solving time per problem: 11.18s
+******* Root solving time: 5.2s
+******* Total solving time: 3,600.11s
+
+******* Average # of variables: 55.77
+******* Root # of variables: 2424
+******* Total # of variables: 17958
+
+Input file: mat.L120.cavity01, 120 vertices, 2972 edges (4168 non-adjacencies)
+
+******* Best separator size: 43
+******* Initially separator size: 51
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 5457
+
+******* Solving time per problem: 0.66s
+******* Root solving time: 5.14s
+******* Total solving time: 3,600.32s
+
+******* Average # of variables: 1.04
+******* Root # of variables: 1934
+******* Total # of variables: 5685
+
+Input file: mat.L120.fidap021, 120 vertices, 3058 edges (4082 non-adjacencies)
+
+******* Best separator size: 22
+******* Initially separator size: 50
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 830
+
+******* Solving time per problem: 4.34s
+******* Root solving time: 7.13s
+******* Total solving time: 3,600.1s
+
+******* Average # of variables: 48.43
+******* Root # of variables: 2104
+******* Total # of variables: 40200
+
+Input file: mat.L120.rbs480a, 120 vertices, 3273 edges (3867 non-adjacencies)
+
+******* Best separator size: 32
+******* Initially separator size: 35
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 758
+
+******* Solving time per problem: 4.75s
+******* Root solving time: 6.64s
+******* Total solving time: 3,600.15s
+
+******* Average # of variables: 19.63
+******* Root # of variables: 1469
+******* Total # of variables: 14881
+
+Input file: mat.L120.wm2, 120 vertices, 3387 edges (3753 non-adjacencies)
+
+******* Best separator size: 22
+******* Initially separator size: 64
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 146
+
+******* Solving time per problem: 24.66s
+******* Root solving time: 6.15s
+******* Total solving time: 3,600.06s
+
+******* Average # of variables: 81.08
+******* Root # of variables: 2344
+******* Total # of variables: 11837
+
+Input file: mat.L100.rbs480a, 100 vertices, 2550 edges (2400 non-adjacencies)
+
+******* Best separator size: 32
+******* Initially separator size: 39
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 5488
+
+******* Solving time per problem: 0.66s
+******* Root solving time: 3.39s
+******* Total solving time: 3,600.03s
+
+******* Average # of variables: 7.98
+******* Root # of variables: 1433
+******* Total # of variables: 43803
+
+Input file: mat.L80.wm2, 80 vertices, 1848 edges (1312 non-adjacencies)
+
+******* Best separator size: 19
+******* Initially separator size: 64
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 114239
+
+******* Solving time per problem: 0.03s
+******* Root solving time: 2.02s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.03
+******* Root # of variables: 1429
+******* Total # of variables: 3185
+
+Input file: mat.L100.wm3, 100 vertices, 2934 edges (2016 non-adjacencies)
+
+******* Best separator size: 23
+******* Initially separator size: 45
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 70604
+
+******* Solving time per problem: 0.05s
+******* Root solving time: 4.69s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.08
+******* Root # of variables: 1548
+******* Total # of variables: 5543
+
+Input file: mat.L120.e05r0000, 120 vertices, 4177 edges (2963 non-adjacencies)
+
+******* Best separator size: 30
+******* Initially separator size: 78
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 95
+
+******* Solving time per problem: 37.9s
+******* Root solving time: 9.48s
+******* Total solving time: 3,600.28s
+
+******* Average # of variables: 244.69
+******* Root # of variables: 2657
+******* Total # of variables: 23246
+
+Input file: mat.L100.wm1, 100 vertices, 2956 edges (1994 non-adjacencies)
+
+******* Best separator size: 27
+******* Initially separator size: 27
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 4264
+
+******* Solving time per problem: 0.84s
+******* Root solving time: 5.29s
+******* Total solving time: 3,600.01s
+
+******* Average # of variables: 0.86
+******* Root # of variables: 1203
+******* Total # of variables: 3687
+
+Input file: mat.L120.fidap022, 120 vertices, 4307 edges (2833 non-adjacencies)
+
+******* Best separator size: 36
+******* Initially separator size: 51
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 650
+
+******* Solving time per problem: 5.54s
+******* Root solving time: 10.69s
+******* Total solving time: 3,600.14s
+
+******* Average # of variables: 87.5
+******* Root # of variables: 2004
+******* Total # of variables: 56876
+
+Input file: mat.L100.fidapm02, 100 vertices, 3090 edges (1860 non-adjacencies)
+
+******* Best separator size: 31
+******* Initially separator size: 73
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 2817
+
+******* Solving time per problem: 1.28s
+******* Root solving time: 4.55s
+******* Total solving time: 3,600.04s
+
+******* Average # of variables: 4.57
+******* Root # of variables: 2010
+******* Total # of variables: 12861
+
+Input file: mat.L120.fidap001, 120 vertices, 4482 edges (2658 non-adjacencies)
+
+******* Best separator size: 38
+******* Initially separator size: 56
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 598
+
+******* Solving time per problem: 6.02s
+******* Root solving time: 10.33s
+******* Total solving time: 3,600.18s
+
+******* Average # of variables: 68.36
+******* Root # of variables: 2040
+******* Total # of variables: 40877
+
+Input file: mat.L100.e05r0000, 100 vertices, 3153 edges (1797 non-adjacencies)
+
+******* Best separator size: 30
+******* Initially separator size: 42
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 219
+
+******* Solving time per problem: 4.24s
+******* Root solving time: 4.52s
+******* Total solving time: 928.85s
+
+******* Average # of variables: 6.08
+******* Root # of variables: 1514
+******* Total # of variables: 1331
+
+Input file: mat.L80.fidapm02, 80 vertices, 2058 edges (1102 non-adjacencies)
+
+******* Best separator size: 28
+******* Initially separator size: 38
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 7967
+
+******* Solving time per problem: 0.45s
+******* Root solving time: 2.1s
+******* Total solving time: 3,600.04s
+
+******* Average # of variables: 1.26
+******* Root # of variables: 1267
+******* Total # of variables: 10019
+
+Input file: mat.L120.fidapm02, 120 vertices, 4626 edges (2514 non-adjacencies)
+
+******* Best separator size: 37
+******* Initially separator size: 97
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 647
+
+******* Solving time per problem: 5.56s
+******* Root solving time: 10.84s
+******* Total solving time: 3,600.09s
+
+******* Average # of variables: 105.53
+******* Root # of variables: 3103
+******* Total # of variables: 68276
+
+Input file: mat.L100.fidap001, 100 vertices, 3379 edges (1571 non-adjacencies)
+
+******* Best separator size: 36
+******* Initially separator size: 39
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 2210
+
+******* Solving time per problem: 1.63s
+******* Root solving time: 5.01s
+******* Total solving time: 3,600.05s
+
+******* Average # of variables: 5.6
+******* Root # of variables: 1471
+******* Total # of variables: 12379
+
+Input file: mat.L80.fidap001, 80 vertices, 2288 edges (872 non-adjacencies)
+
+******* Best separator size: 26
+******* Initially separator size: 46
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 3626
+
+******* Solving time per problem: 0.89s
+******* Root solving time: 2.77s
+******* Total solving time: 3,241.55s
+
+******* Average # of variables: 0.29
+******* Root # of variables: 1311
+******* Total # of variables: 1037
+
+Input file: mat.L100.fidap022, 100 vertices, 3359 edges (1591 non-adjacencies)
+
+******* Best separator size: 38
+******* Initially separator size: 51
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 2721
+
+******* Solving time per problem: 1.32s
+******* Root solving time: 4.94s
+******* Total solving time: 3,600.01s
+
+******* Average # of variables: 5.5
+******* Root # of variables: 1648
+******* Total # of variables: 14963
+
+Input file: mat.L80.fidap022, 80 vertices, 2403 edges (757 non-adjacencies)
+
+******* Best separator size: 39
+******* Initially separator size: 60
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 7301
+
+******* Solving time per problem: 0.29s
+******* Root solving time: 2.68s
+******* Total solving time: 2,084.26s
+
+******* Average # of variables: 0.19
+******* Root # of variables: 1476
+******* Total # of variables: 1394
+
+Input file: mat.L100.fidap027, 100 vertices, 4014 edges (936 non-adjacencies)
+
+******* Best separator size: 76
+******* Initially separator size: 90
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 1451
+
+******* Solving time per problem: 2.48s
+******* Root solving time: 8.66s
+******* Total solving time: 3,600.13s
+
+******* Average # of variables: 27.78
+******* Root # of variables: 2218
+******* Total # of variables: 40315
+
+Input file: mat.L100.fidap002, 100 vertices, 4057 edges (893 non-adjacencies)
+
+******* Best separator size: 34
+******* Initially separator size: 80
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 594
+
+******* Solving time per problem: 2.5s
+******* Root solving time: 6.76s
+******* Total solving time: 1,484.96s
+
+******* Average # of variables: 2.52
+******* Root # of variables: 2144
+******* Total # of variables: 1497
+
+Input file: mat.L120.fidap002, 120 vertices, 5886 edges (1254 non-adjacencies)
+
+******* Best separator size: 52
+******* Initially separator size: 62
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 636
+
+******* Solving time per problem: 5.66s
+******* Root solving time: 15.58s
+******* Total solving time: 3,600.75s
+
+******* Average # of variables: 21.19
+******* Root # of variables: 2404
+******* Total # of variables: 13479
+
+Input file: mat.L120.fidap027, 120 vertices, 6051 edges (1089 non-adjacencies)
+
+******* Best separator size: 37
+******* Initially separator size: 110
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 310
+
+******* Solving time per problem: 2.8s
+******* Root solving time: 19.35s
+******* Total solving time: 867.42s
+
+******* Average # of variables: 7.01
+******* Root # of variables: 3301
+******* Total # of variables: 2174
+
+Input file: miplib.noswot.p, 182 vertices, 1517 edges (14954 non-adjacencies)
+
+******* Best separator size: 47
+******* Initially separator size: 47
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 10
+
+******* Solving time per problem: 360.31s
+******* Root solving time: 12.8s
+******* Total solving time: 3,603.12s
+
+******* Average # of variables: 1,441.9
+******* Root # of variables: 5951
+******* Total # of variables: 14419
+
+Input file: miplib.khb05250.p, 100 vertices, 1323 edges (3627 non-adjacencies)
+
+******* Best separator size: 18
+******* Initially separator size: 18
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 55
+
+******* Solving time per problem: 0.39s
+******* Root solving time: 1.71s
+******* Total solving time: 21.31s
+
+******* Average # of variables: 34.58
+******* Root # of variables: 1005
+******* Total # of variables: 1902
+
+Input file: miplib.stein27_r.p, 118 vertices, 2223 edges (4680 non-adjacencies)
+
+******* Best separator size: 39
+******* Initially separator size: 56
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 2391
+
+******* Solving time per problem: 1.51s
+******* Root solving time: 4.4s
+******* Total solving time: 3,600.17s
+
+******* Average # of variables: 3.98
+******* Root # of variables: 1822
+******* Total # of variables: 9528
+
+Input file: miplib.10teams.p, 210 vertices, 7560 edges (14385 non-adjacencies)
+
+******* Best separator size: 78
+******* Initially separator size: 78
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 153
+
+******* Solving time per problem: 23.54s
+******* Root solving time: 76.76s
+******* Total solving time: 3,601.24s
+
+******* Average # of variables: 27.4
+******* Root # of variables: 4159
+******* Total # of variables: 4192
+
+Input file: miplib.mod010.p, 146 vertices, 4019 edges (6566 non-adjacencies)
+
+******* Best separator size: 45
+******* Initially separator size: 45
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 287
+
+******* Solving time per problem: 12.54s
+******* Root solving time: 12.62s
+******* Total solving time: 3,600.17s
+
+******* Average # of variables: 216.36
+******* Root # of variables: 2013
+******* Total # of variables: 62094
+
+Input file: miplib.l152lav.p, 97 vertices, 1866 edges (2790 non-adjacencies)
+
+******* Best separator size: 27
+******* Initially separator size: 33
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 50259
+
+******* Solving time per problem: 0.07s
+******* Root solving time: 2.7s
+******* Total solving time: 3,600.01s
+
+******* Average # of variables: 0.34
+******* Root # of variables: 1299
+******* Total # of variables: 17222
+
+Input file: miplib.lp4l.p, 85 vertices, 1644 edges (1926 non-adjacencies)
+
+******* Best separator size: 27
+******* Initially separator size: 31
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 24470
+
+******* Solving time per problem: 0.15s
+******* Root solving time: 1.92s
+******* Total solving time: 3,600s
+
+******* Average # of variables: 0.25
+******* Root # of variables: 1141
+******* Total # of variables: 6040
+
+Input file: miplib.air03.p, 124 vertices, 4689 edges (2937 non-adjacencies)
+
+******* Best separator size: 44
+******* Initially separator size: 115
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 989
+
+******* Solving time per problem: 3.64s
+******* Root solving time: 12.61s
+******* Total solving time: 3,600.11s
+
+******* Average # of variables: 29.36
+******* Root # of variables: 3211
+******* Total # of variables: 29035
+
+Input file: miplib.misc03.p, 96 vertices, 2894 edges (1666 non-adjacencies)
+
+******* Best separator size: 31
+******* Initially separator size: 50
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 2633
+
+******* Solving time per problem: 1.37s
+******* Root solving time: 4.18s
+******* Total solving time: 3,600.03s
+
+******* Average # of variables: 1.92
+******* Root # of variables: 1739
+******* Total # of variables: 5048
+
+Input file: miplib.misc07.p, 212 vertices, 17923 edges (4443 non-adjacencies)
+
+******* Best separator size: 80
+******* Initially separator size: 80
+******* Root objective: 0
+
+******* # of problems in the Branch&Price tree: 36
+
+******* Solving time per problem: 100.02s
+******* Root solving time: 211.52s
+******* Total solving time: 3,600.66s
+
+******* Average # of variables: 122.33
+******* Root # of variables: 4338
+******* Total # of variables: 4404
